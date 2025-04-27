@@ -1,4 +1,4 @@
-# Dino Game Clone (2D)
+# Dino Game Clone
 ![Dino Game](dino-game-clone.png)
 
 > Dino Game — это браузерная игра, разработанная Google и встроенная в веб-браузер Google Chrome. Игрок управляет пиксельным тираннозавром Рексом,
